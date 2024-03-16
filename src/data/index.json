@@ -25,22 +25,53 @@
       "src": "./img/stack overflow.png",
       "title": "Stack Overflow Clone (Full Stack Project)",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link" : "View in Github"
+      "link": "View in Github"
     },
     {
       "id": "2",
       "src": "./img/fixHealth.png",
       "title": "Slot Scheduling for Online Doctor Consultation (Full Stack Project)",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link" : "View in Github"
+      "link": "View in Github"
     },
     {
       "id": "3",
       "src": "./img/portfolioo.png",
       "title": "Porfolio (Front End Project)",
       "description": "Created a personal portfolio website using front-end JavaScript library ReactJS",
-      "link" : "View in Github"
+      "link": "View in Github"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "title": "Graduate Engineer Trainee",
+      "description": "Worked as a GET in Manufacturing System Engineer (MSE) department also known as Lean manufacturing department and have done several projects to reduce the lead time & manufacturing cost for manufacturing a product.",
+      "company_name": "Propel Industries Private Limited , Coimbatore",
+      "date": "Jun 2019 - Jul 2020"
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "title": "Full Stack Web Development Bootcamp",
+      "description": "Finished Full Stack Development course (MERN stack) from Guvi IIT Madras and gained hands-onexperience with technologies such as JavaScript, HTML, CSS, ReactJS, MySQL, MongoDB, NodeJS, ExpressJS.",
+      "institute_name": "Guvi IIT Madras Research Park , Chennai",
+      "date": "Aug 2023 - Jan 2024"
+    },
+    {
+      "id": "2",
+      "title": "Diploma in Cooperative management",
+      "description": "Worked as a GET in Manufacturing System Engineer (MSE) department also known as Lean manufacturing department and have done several projects to reduce the lead time & manufacturing cost for manufacturing a product.",
+      "institute_name": "Institute of Cooperative Management , Trichy",
+      "date": "Dec 2020 - Jan 2022"
+    },
+    {
+      "id": "3",
+      "title": "Bachelor of Engineering , Mechanical Engineering",
+      "description": "Worked as a GET in Manufacturing System Engineer (MSE) department also known as Lean manufacturing department and have done several projects to reduce the lead time & manufacturing cost for manufacturing a product.",
+      "institute_name": "Saranathan College of Engineering , Trichy",
+      "date": "Jun 2015 - Apr 2019"
     }
   ]
 }
- 
