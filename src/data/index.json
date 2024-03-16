@@ -18,6 +18,29 @@
       "title": "Data Base",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
     }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/stack overflow.png",
+      "title": "Stack Overflow Clone (Full Stack Project)",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link" : "View in Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/fixHealth.png",
+      "title": "Slot Scheduling for Online Doctor Consultation (Full Stack Project)",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link" : "View in Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/portfolioo.png",
+      "title": "Porfolio (Front End Project)",
+      "description": "Created a personal portfolio website using front-end JavaScript library ReactJS",
+      "link" : "View in Github"
+    }
   ]
 }
  

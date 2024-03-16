@@ -18,7 +18,7 @@ p {
   --primary: #5e3bee;
   --heading-color: #282938;
   --bg-shade: #effafa;
-  --github: #e62872;
+  --github: #5e3bee;
   --darkblue: #1c1e53;
   --black: #000000;
   --white: #ffffff;
@@ -27,7 +27,7 @@ p {
 .btn {
   /* font-family: "Roboto" ; */
   display: inline-block;
-  padding: 14px 32px;
+  padding: 14px 20px;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -79,7 +79,7 @@ p {
   gap: 16px;
 }
 
-.btn-github {
+.btn-github:hover {
   color: var(--github);
   background-color: var(--white);
 }
@@ -263,7 +263,7 @@ h2 {
   justify-content: center;
   align-items: flex-start;
   gap: 42.6px;
-  grid-template-columns: repeat(4,1fr);
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .skills--section--card {
@@ -272,14 +272,16 @@ h2 {
   flex-direction: column;
   align-items: flex-start;
   gap: 32px;
-  flex:  1 0 0;
+  flex: 1 0 0;
   border-radius: 10.6px;
-  background:  var(--bg-shade);
+  background: var(--bg-shade);
   min-height: 250px;
+  border: 1px solid var(--bg-shade);
 }
 
 .skills--section--card:hover {
   border-bottom: 4px solid #8db6b7;
+  /* padding: 30px;  */
 }
 
 .skills--section--card:hover .skills--section--description {
@@ -312,11 +314,90 @@ h2 {
   line-height: 45px;
 }
 
-.skills--section--description{
+.skills--section--description {
   color: var(--black);
   font-size: 21.3px;
   font-style: italic;
   /* font-style: normal; */
   font-weight: 400;
   line-height: 32px;
+}
+
+/* MyPortfolio */
+.portfolio--section {
+  display: flex;
+  padding: 112px 85px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 80px;
+}
+
+.portfolio--container-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.portfolio--container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 21.3px;
+}
+
+.portfolio--section--container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 42.6px;
+  width: 100%;
+}
+
+.portfolio--section--img {
+  border-radius: 8px;
+  width: 100%;
+}
+
+.portfolio--section--img > img {
+  width: 100%;
+}
+
+.portfolio--section--card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  flex: 1 0 0;
+  background-color: #ffffff;
+  box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
+  /* cursor: pointer; */
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.portfolio--section--card--content {
+  display: flex;
+  padding: 32px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  align-self: stretch;
+}
+
+.portfolio--section--title {
+  color: var(--heading-color);
+}
+
+.portfolio--link {
+  text-decoration: none;
+  display: flex;
+  gap: 5px;
+  border-bottom: 1.33px solid var(--primary);
+  padding-bottom: 5px;
+  cursor: pointer;
+}
+
+.portfolio--section--card:hover path {
+  stroke: aqua;
 }
