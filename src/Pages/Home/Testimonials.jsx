@@ -13,9 +13,9 @@ function Testimonials() {
       <div className="portfolio--section--container">
         {data?.experience?.map((item, index) => (
           <div key={index} className="testimonial--section--card">
-            <div className="testimonial--section--card--review">
+            <a className="testimonial--section--card--review" href={item.offerLetter} target="_blank">
               {item.title}
-            </div>
+            </a>
             <div className="testimonial--section--card--author--detail">
               <div>
                 <p className="text-md testimonial--author--name">
@@ -34,9 +34,9 @@ function Testimonials() {
       <div className="portfolio--section--container">
         {data?.education?.map((item, index) => (
           <div key={index} className="testimonial--section--card">
-            <div className="testimonial--section--card--review">
+            <a className="testimonial--section--card--review" href={item.certificate} target="_blank">
               {item.title}
-            </div>
+            </a>
             <div className="testimonial--section--card--author--detail">
               <div>
                 <p className="text-md testimonial--author--name">

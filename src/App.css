@@ -455,6 +455,19 @@ h2 {
   align-items: flex-start;
   gap: 5.33px;
   font-weight: 600;
+  text-decoration: none;
+}
+
+.testimonial--section--card--review:link {
+  color: black ;
+}
+
+.testimonial--section--card--review:visited {
+  color: black;
+}
+
+.testimonial--section--card--review:hover {
+  color: var(--tshirt);
 }
 
 .testimonial--section--card--author--detail {
