@@ -1,4 +1,6 @@
 import React from "react";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { IoIosPaper } from "react-icons/io";
 
 function Herosection() {
   return (
@@ -17,7 +19,35 @@ function Herosection() {
             Ready to make an impact and thrive in a dynamic work environment
           </p>
         </div>
-        <button className="btn btn-primary">Get in Touch</button>
+        <div className="hero--button--container">
+          <button
+            className="btn btn-primary"
+            onClick={() =>
+              window.open(
+                "https://drive.google.com/file/d/1Zg6X2gZTVx8wGy_niDuzJtH-3OpafMmb/view?usp=drive_link"
+              )
+            }
+          >
+            <IoIosPaper size={20} className="icon" />
+            Resume
+          </button>
+          <button
+            className="btn btn-primary"
+            onClick={() => window.open("https://github.com/DEVAVISWA")}
+          >
+            <FaGithub size={20} className="icon" />
+            Github
+          </button>
+          <button
+            className="btn btn-primary"
+            onClick={() =>
+              window.open("https://www.linkedin.com/in/devaviswa-g-0b049b140/")
+            }
+          >
+            <FaLinkedin size={20} className="icon" />
+            LinkedIn
+          </button>
+        </div>
       </div>
       <div className="hero--section--img">
         <img src="./img/heroImage.jpg" alt="Hero Section Image" />
