@@ -25,21 +25,27 @@
       "src": "./img/stack overflow.png",
       "title": "Stack Overflow Clone (Full Stack Project)",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View in Github"
+      "client": "https://github.com/DEVAVISWA/StackOverflowCloneClient",
+      "server" :"https://github.com/DEVAVISWA/StackOverflowCloneServer-",
+      "site" : "https://celebrated-faun-a8aa0b.netlify.app/"
     },
     {
       "id": "2",
       "src": "./img/fixHealth.png",
       "title": "Slot Scheduling for Online Doctor Consultation (Full Stack Project)",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View in Github"
+      "client": "https://github.com/DEVAVISWA/fixHealth_clientRework",
+      "server" :"https://github.com/DEVAVISWA/fixHealth_serverRework",
+      "site" : "https://celadon-mochi-7358ee.netlify.app/"
     },
     {
       "id": "3",
       "src": "./img/portfolioo.png",
       "title": "Porfolio (Front End Project)",
-      "description": "Created a personal portfolio website using front-end JavaScript library ReactJS",
-      "link": "View in Github"
+      "description": "Designed a fully responsive personal portfolio website using front-end JavaScript library ReactJS and CSS",
+      "client": "https://github.com/DEVAVISWA/DevaViswaPortfolio_V1.0.0",
+      "server" :"https://github.com/DEVAVISWA/DevaViswaPortfolio_V1.0.0",
+      "site" : ""
     }
   ],
   "experience": [

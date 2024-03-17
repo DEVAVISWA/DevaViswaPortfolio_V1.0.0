@@ -15,13 +15,14 @@ p {
 }
 
 :root {
-  --primary: #5e3bee;
+  --primary: #3d727a;
   --heading-color: #282938;
   --bg-shade: #effafa;
-  --github: #5e3bee;
+  --github: #3d727a;
   --darkblue: #1c1e53;
   --black: #000000;
   --white: #ffffff;
+  --tshirt: #10ce8e
 }
 
 .btn {
@@ -256,7 +257,7 @@ h2 {
 }
 
 .navbar--active-content {
-  color: var(--primary);
+  color: var(--tshirt);
 }
 
 /* myskills */
@@ -386,21 +387,21 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 32px;
+  /* gap: 32px; */
   flex: 1 0 0;
   background-color: #ffffff;
   box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
-  /* cursor: pointer; */
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
 }
 
 .portfolio--section--card--content {
   display: flex;
-  padding: 32px;
+  padding: 20px 32px;
+  /* padding: 32px;   */
   flex-direction: column;
   align-items: flex-start;
-  gap: 32px;
+  gap: 20px;
   align-self: stretch;
 }
 
@@ -417,9 +418,11 @@ h2 {
   cursor: pointer;
 }
 
-.portfolio--section--card:hover path {
-  stroke: aqua;
+.portfolio--link:hover path {
+  stroke: var(--tshirt);
 }
+
+
 
 /* testimonials */
 

@@ -12,7 +12,10 @@ function MyPortfolio() {
           <h2 className="section--heading">Recent Projects</h2>
         </div>
         <div>
-          <button className="btn btn-github">
+          <button
+            className="btn btn-github"
+            onClick={() => window.open("https://github.com/DEVAVISWA")}
+          >
             {" "}
             <FaGithub size={30} /> Visit My Github
           </button>
@@ -29,31 +32,38 @@ function MyPortfolio() {
                 <h3 className="portfolio--section--title">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
               </div>
-              <p className="text-sm portfolio--link">
-                {item.link}
+
+              <a className="text-sm portfolio--link" href={item.client} target="_blank">
+                Github Client
                 <GoArrowUpRight
                   size={20}
                   stroke="currentColor"
                   strokeWidth="2"
                   strokeLinecap="round"
                   strokeLinejoin="round"
-                />
-                {/* <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  viewBox="0 0 20 19"
-                  fill="none"
-                >
-                  <path
-                    d="M4.66667 1.66675H18V15.0001M18 1.66675L2 17.6667L18 1.66675Z"
-                    stroke="currentColor"
-                    strokeWidth="2.66667"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  />
-                </svg> */}
-              </p>
+                />                
+              </a>
+              <a className="text-sm portfolio--link" href={item.server} target="_blank">
+                Github Server
+                <GoArrowUpRight
+                  size={20}
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />                
+              </a>
+              <a className="text-sm portfolio--link" href={item.site} target="_blank">
+                View Site
+                <GoArrowUpRight
+                  size={20}
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />                
+              </a>
+              
             </div>
           </div>
         ))}
