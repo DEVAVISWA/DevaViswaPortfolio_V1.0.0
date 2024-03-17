@@ -1,3 +1,5 @@
+import Contact from "../Contact";
+import Footer from "../Footer";
 import Herosection from "../Herosection";
 import MyPortfolio from "../MyPortfolio";
 import MySkills from "../MySkills";
@@ -10,6 +12,8 @@ export default function Home() {
       <MySkills />
       <MyPortfolio />
       <Testimonials />
+      <Contact />
+      <Footer />
     </>
   );
 }

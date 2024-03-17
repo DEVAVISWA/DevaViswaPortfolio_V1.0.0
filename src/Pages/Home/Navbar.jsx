@@ -49,7 +49,21 @@ function Navbar() {
               to="heroSection"
               className="navbar--content"
             >
-              Home
+              About
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
+              to="mySkills"
+              className="navbar--content"
+            >
+              My Skills
             </Link>
           </li>
           <li>
@@ -63,7 +77,7 @@ function Navbar() {
               to="MyPortfolio"
               className="navbar--content"
             >
-              Portfolio
+              Projects
             </Link>
           </li>
           <li>
@@ -74,24 +88,10 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to="AboutMe"
+              to="testimonial"
               className="navbar--content"
             >
-              About
-            </Link>
-          </li>
-          <li>
-            <Link
-              onClick={closeMenu}
-              activeClass="navbar--active-content"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={500}
-              to="Testimonials"
-              className="navbar--content"
-            >
-              Testimonials
+              Experience & Education
             </Link>
           </li>
         </ul>
