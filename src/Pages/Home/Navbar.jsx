@@ -31,7 +31,8 @@ function Navbar() {
         {/* <img src="./img/devaLogo.PNG" alt="logo" /> */}
         Deva Viswa G 👨🏽‍💻
       </div>
-      <a className={`nav__hamburger ${navActive ? "active" : ""}`}>
+      <a className={`nav__hamburger ${navActive ? "active" : ""}`}
+      onClick={toogleNav}>
         <span className="nav__hamburger__line"></span>
         <span className="nav__hamburger__line"></span>
         <span className="nav__hamburger__line"></span>
@@ -44,7 +45,7 @@ function Navbar() {
               activeClass="navbar--active-content"
               spy={true}
               smooth={true}
-              offset={-70}
+              offset={0}
               duration={500}
               to="heroSection"
               className="navbar--content"
@@ -58,7 +59,7 @@ function Navbar() {
               activeClass="navbar--active-content"
               spy={true}
               smooth={true}
-              offset={-70}
+              offset={0}
               duration={500}
               to="mySkills"
               className="navbar--content"
@@ -72,7 +73,7 @@ function Navbar() {
               activeClass="navbar--active-content"
               spy={true}
               smooth={true}
-              offset={-70}
+              offset={0}
               duration={500}
               to="MyPortfolio"
               className="navbar--content"
@@ -86,7 +87,7 @@ function Navbar() {
               activeClass="navbar--active-content"
               spy={true}
               smooth={true}
-              offset={-70}
+              offset={0}
               duration={500}
               to="testimonial"
               className="navbar--content"
@@ -101,7 +102,7 @@ function Navbar() {
         activeClass="navbar--active-content"
         spy={true}
         smooth={true}
-        offset={-70}
+        offset={0}
         duration={500}
         to="Contact"
         className="btn btn-outline-primary"
