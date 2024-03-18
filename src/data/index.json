@@ -3,72 +3,86 @@
     {
       "id": 1,
       "name": "Javascript",
-      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "certificate": ""
     },
     {
       "id": 1,
       "name": "HTML",
-      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+      "certificate": "https://drive.google.com/file/d/1rRgjPH2IM2zhZDjs9v4xDS6kbtA7nlow/view?usp=drive_link"
     },
     {
       "id": 1,
       "name": "CSS",
-      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg",
+      "certificate": "https://drive.google.com/file/d/1i5z9-awRKMmI0yZMaDjMN9SZ9NWEwacF/view?usp=drive_link"
     },
     {
       "id": 1,
       "name": "Bootstrap",
-      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg",
+      "certificate": "https://drive.google.com/file/d/16n2GDJjepe7IgBpUbZbxG34WR8lp5afp/view?usp=drive_link"
     },
     {
       "id": 1,
       "name": "Tailwind CSS",
-      "link": "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      "link": "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
+      "certificate": "https://tailwindcss.com/"
     },
     {
       "id": 1,
       "name": "React",
-      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+      "certificate": "https://drive.google.com/file/d/1UMFBTNA_1X7Z0F2sFBfSPMVW9GyaWwBC/view?usp=drive_link"
     },
     {
       "id": 1,
       "name": "Redux",
-      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg",
+      "certificate": "https://drive.google.com/file/d/1UMFBTNA_1X7Z0F2sFBfSPMVW9GyaWwBC/view?usp=drive_link"
     },
     {
       "id": 1,
       "name": "MySQl",
-      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      "certificate": "https://drive.google.com/file/d/12Byh5z68Z-Z9CK1gbXbcdIjccPstE92g/view?usp=drive_link"
     },
     {
       "id": 1,
       "name": "Mongo DB",
-      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
+      "certificate": "https://drive.google.com/file/d/1uLYLRI_WXDcgz_vIujYpSiHTeMCXwazt/view?usp=drive_link"
     },
     {
       "id": 1,
       "name": "NodeJS",
-      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
+      "certificate": "https://drive.google.com/file/d/1d7Q-YCXd6X-Mdf02W9IQ97RezGfcDNyK/view?usp=drive_link"
     },
     {
       "id": 1,
       "name": "Express",
-      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg",
+      "certificate": "https://drive.google.com/file/d/1d7Q-YCXd6X-Mdf02W9IQ97RezGfcDNyK/view?usp=drive_link"
     },
     {
       "id": 1,
       "name": "Postman",
-      "link": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      "link": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
+      "certificate": "https://www.postman.com/postman/workspace/postman-public-workspace/request/create?requestId=4afa196e-41b2-461b-ac7a-dc20b17784d1"
     },
     {
       "id": 1,
       "name": "Git",
-      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
+      "certificate": "https://github.com/DEVAVISWA"
     },
     {
       "id": 1,
       "name": "GitHub",
-      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg",
+      "certificate": "https://github.com/DEVAVISWA"
     }
   ],
   "portfolio": [

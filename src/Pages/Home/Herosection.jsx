@@ -1,7 +1,6 @@
 import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { IoIosPaper } from "react-icons/io";
-import Typical from "react-typical";
 
 function Herosection() {
   return (

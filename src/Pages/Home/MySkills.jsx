@@ -2,7 +2,7 @@ import data from "../../data/index.json";
 import React from "react";
 
 
-function MySkills() {
+function MySkills() {  
   return (
     <section className="skills--section" id="mySkills">
       <div className="portfolio--container">
@@ -31,8 +31,9 @@ function MySkills() {
             //   hidden: { opacity: 1, y: 80 },
             // }}
             className="py-2 px-4 bg-gray-50 md:m-4 mx-2 mt-6 rounded-lg flex items-center hover:scale-125 cursor-pointer md:w-48 w-40"
+            onClick={() => window.open(`${item.certificate}`)}
           >
-            <img alt="img" src={item.link} className="w-12" />
+            <img alt="img" src={item.link} className="w-12"/>
             <h4 className="text-md ml-4">{item.name}</h4>
           </div>
         ))}
