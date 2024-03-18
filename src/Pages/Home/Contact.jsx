@@ -14,7 +14,7 @@ function Contact() {
     e.preventDefault();
     emailjs
       .sendForm("service_y2y7o5a", "template_8soiw17", form.current, {
-        publicKey: "",
+        publicKey: `${import.meta.env.VITE_PUBLIC_KEY}`,
       })
       .then(
         () => {
