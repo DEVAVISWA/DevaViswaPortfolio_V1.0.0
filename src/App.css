@@ -409,6 +409,7 @@ h2 {
 
 .portfolio--section--title {
   color: var(--heading-color);
+  font-weight: 700;
 }
 
 .portfolio--link {

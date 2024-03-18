@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Javascript",
       "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
-      "certificate": ""
+      "certificate": "https://drive.google.com/file/d/1_ihRROKU_9tVPQTnEmmuDx6L7wNZh8bp/view?usp=drive_link"
     },
     {
       "id": 1,
@@ -90,7 +90,7 @@
       "id": "1",
       "src": "./img/stack overflow.png",
       "title": "Stack Overflow Clone (Full Stack Project)",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Developed a Stack Overflow clone using MERN stack that allows users to sign up, log in, ask questions, and post answers",
       "client": "https://github.com/DEVAVISWA/StackOverflowCloneClient",
       "server": "https://github.com/DEVAVISWA/StackOverflowCloneServer-",
       "site": "https://celebrated-faun-a8aa0b.netlify.app/"
@@ -99,7 +99,7 @@
       "id": "2",
       "src": "./img/fixHealth.png",
       "title": "Slot Scheduling for Online Doctor Consultation (Full Stack Project)",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Created a website with Role Based Access Control for doctor, patient and marketing team where Marketing team will allocate available doctors to the patients by choosing a matching time and a slot for the week",
       "client": "https://github.com/DEVAVISWA/fixHealth_clientRework",
       "server": "https://github.com/DEVAVISWA/fixHealth_serverRework",
       "site": "https://celadon-mochi-7358ee.netlify.app/"
@@ -128,7 +128,7 @@
     {
       "id": "1",
       "title": "Full Stack Web Development Bootcamp",
-      "description": "Finished Full Stack Development course (MERN stack) from Guvi IIT Madras and gained hands-onexperience with technologies such as JavaScript, HTML, CSS, ReactJS, MySQL, MongoDB, NodeJS, ExpressJS.",
+      "description": "Finished Full Stack Development course (MERN stack) from Guvi IIT Madras and gained hands-onexperience with technologies such as JavaScript, HTML, CSS, ReactJS, MySQL, MongoDB, NodeJS, ExpressJS. Applying the knowledge gain throughout the course to build production redy application  ",
       "institute_name": "Guvi IIT Madras Research Park , Chennai",
       "date": "Aug 2023 - Jan 2024",
       "certificate": "https://drive.google.com/file/d/1RU6wK15d2GBJZ2KCsF0e6KF6Fw-QrVHX/view?usp=sharing"
@@ -136,7 +136,7 @@
     {
       "id": "2",
       "title": "Diploma in Cooperative management",
-      "description": "Worked as a GET in Manufacturing System Engineer (MSE) department also known as Lean manufacturing department and have done several projects to reduce the lead time & manufacturing cost for manufacturing a product.",
+      "description": "Completed a Diploma course in Cooperative management with First Class . Developed managerial skills for management of a cooperative. Learnt the applications of Cooperative Law,Cooperative Management and Administration and Cooperative Credit and Banking",
       "institute_name": "Institute of Cooperative Management , Trichy",
       "date": "Dec 2020 - Jan 2022",
       "certificate": "https://drive.google.com/file/d/1vN8J5KUxqBolh5-3lgIZjd_lteNwribW/view?usp=drive_link"
@@ -144,7 +144,7 @@
     {
       "id": "3",
       "title": "Bachelor of Engineering , Mechanical Engineering",
-      "description": "Worked as a GET in Manufacturing System Engineer (MSE) department also known as Lean manufacturing department and have done several projects to reduce the lead time & manufacturing cost for manufacturing a product.",
+      "description": "Completed Bachelors in Mechanical Engineering with a CGPA of 7.01 . Won the best paper award in the National Conference in the Recent Advances in Mechanical Engineering (RAME 2019) conducted by Sriram Engineering College, Chennai on 28th February 2019",
       "institute_name": "Saranathan College of Engineering , Trichy",
       "date": "Jun 2015 - Apr 2019",
       "certificate": "https://drive.google.com/file/d/1CnpayLmhgpFih4PrYQrzXyIkMrJXQdnW/view?usp=drive_link"
