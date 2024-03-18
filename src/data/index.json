@@ -1,22 +1,74 @@
 {
   "skills": [
     {
-      "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "id": 1,
+      "name": "Javascript",
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     },
     {
-      "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "id": 1,
+      "name": "HTML",
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     },
     {
-      "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "Data Base",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "id": 1,
+      "name": "CSS",
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+    },
+    {
+      "id": 1,
+      "name": "Bootstrap",
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+    },
+    {
+      "id": 1,
+      "name": "Tailwind CSS",
+      "link": "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    },
+    {
+      "id": 1,
+      "name": "React",
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    },
+    {
+      "id": 1,
+      "name": "Redux",
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+    },
+    {
+      "id": 1,
+      "name": "MySQl",
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    },
+    {
+      "id": 1,
+      "name": "Mongo DB",
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
+    },
+    {
+      "id": 1,
+      "name": "NodeJS",
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    },
+    {
+      "id": 1,
+      "name": "Express",
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    },
+    {
+      "id": 1,
+      "name": "Postman",
+      "link": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+    },
+    {
+      "id": 1,
+      "name": "Git",
+      "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+    },
+    {
+      "id": 1,
+      "name": "GitHub",
+      "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
     }
   ],
   "portfolio": [
@@ -26,8 +78,8 @@
       "title": "Stack Overflow Clone (Full Stack Project)",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "client": "https://github.com/DEVAVISWA/StackOverflowCloneClient",
-      "server" :"https://github.com/DEVAVISWA/StackOverflowCloneServer-",
-      "site" : "https://celebrated-faun-a8aa0b.netlify.app/"
+      "server": "https://github.com/DEVAVISWA/StackOverflowCloneServer-",
+      "site": "https://celebrated-faun-a8aa0b.netlify.app/"
     },
     {
       "id": "2",
@@ -35,8 +87,8 @@
       "title": "Slot Scheduling for Online Doctor Consultation (Full Stack Project)",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "client": "https://github.com/DEVAVISWA/fixHealth_clientRework",
-      "server" :"https://github.com/DEVAVISWA/fixHealth_serverRework",
-      "site" : "https://celadon-mochi-7358ee.netlify.app/"
+      "server": "https://github.com/DEVAVISWA/fixHealth_serverRework",
+      "site": "https://celadon-mochi-7358ee.netlify.app/"
     },
     {
       "id": "3",
@@ -44,8 +96,8 @@
       "title": "Porfolio (Front End Project)",
       "description": "Designed a fully responsive personal portfolio website using front-end JavaScript library ReactJS and CSS",
       "client": "https://github.com/DEVAVISWA/DevaViswaPortfolio_V1.0.0",
-      "server" :"https://github.com/DEVAVISWA/DevaViswaPortfolio_V1.0.0",
-      "site" : ""
+      "server": "https://github.com/DEVAVISWA/DevaViswaPortfolio_V1.0.0",
+      "site": ""
     }
   ],
   "experience": [
@@ -55,7 +107,7 @@
       "description": "Worked as a GET in Manufacturing System Engineer (MSE) department also known as Lean manufacturing department and have done several projects to reduce the lead time & manufacturing cost for manufacturing a product.",
       "company_name": "Propel Industries Private Limited , Coimbatore",
       "date": "Jun 2019 - Jul 2020",
-      "offerLetter" : "https://drive.google.com/file/d/19sxRaGAW7GbVcH4CYgzKM7kySx_pPI2f/view?usp=drive_link"
+      "offerLetter": "https://drive.google.com/file/d/19sxRaGAW7GbVcH4CYgzKM7kySx_pPI2f/view?usp=drive_link"
     }
   ],
   "education": [
@@ -73,7 +125,7 @@
       "description": "Worked as a GET in Manufacturing System Engineer (MSE) department also known as Lean manufacturing department and have done several projects to reduce the lead time & manufacturing cost for manufacturing a product.",
       "institute_name": "Institute of Cooperative Management , Trichy",
       "date": "Dec 2020 - Jan 2022",
-      "certificate": "https://drive.google.com/file/d/1vN8J5KUxqBolh5-3lgIZjd_lteNwribW/view?usp=drive_link" 
+      "certificate": "https://drive.google.com/file/d/1vN8J5KUxqBolh5-3lgIZjd_lteNwribW/view?usp=drive_link"
     },
     {
       "id": "3",

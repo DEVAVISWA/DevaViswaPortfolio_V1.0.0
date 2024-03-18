@@ -1,6 +1,7 @@
 import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { IoIosPaper } from "react-icons/io";
+import Typical from "react-typical";
 
 function Herosection() {
   return (
@@ -13,6 +14,22 @@ function Herosection() {
             <br />
             Developer
           </h1>
+          {/* <h1 className="hero--section--title">
+            <span className="hero--section-title--color">              
+              <Typical
+                steps={[
+                  "Front End",
+                  1000,
+                  "Full Stack",
+                  1000,
+                  "Back End",
+                  1000,
+                ]}
+                loop={Infinity}
+              />
+            </span>{" "}            
+            Developer
+          </h1> */}
           <p className="hero--section-description">
             Result driven Full Stack Developer | Proficient in MERN Stack
             <br />
@@ -21,7 +38,7 @@ function Herosection() {
         </div>
         <div className="hero--button--container">
           <button
-            className="btn btn-primary"
+            className="btn btn-primary button---fitcotent"
             onClick={() =>
               window.open(
                 "https://drive.google.com/file/d/1Zg6X2gZTVx8wGy_niDuzJtH-3OpafMmb/view?usp=drive_link"
