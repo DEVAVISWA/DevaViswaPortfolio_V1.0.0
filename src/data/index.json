@@ -97,15 +97,25 @@
     },
     {
       "id": "2",
+      "src": "./img/chatapp.png",
+      "title": "Chat-Application (Full Stack Project)",
+      "description": "Created a realtime chat app with react, node.js and socket.io with mongodb and express.The chat app is also responsive and it is styled with the styled components.",
+      "client": "https://github.com/DEVAVISWA/ChatApp_Client",
+      "server": "https://github.com/DEVAVISWA/ChatApp_Server",
+      "site": ""
+    },
+    {
+      "id": "3",
       "src": "./img/fixHealth.png",
       "title": "Slot Scheduling for Online Doctor Consultation (Full Stack Project)",
-      "description": "Created a website with Role Based Access Control for doctor, patient and marketing team where Marketing team will allocate available doctors to the patients by choosing a matching time and a slot for the week",
+      "description": "Created a website with Role Based Access Control for doctor, patient and sales team where sales team will allocate available doctors to the patients by choosing a matching time",
       "client": "https://github.com/DEVAVISWA/fixHealth_clientRework",
       "server": "https://github.com/DEVAVISWA/fixHealth_serverRework",
       "site": "https://celadon-mochi-7358ee.netlify.app/"
     },
+
     {
-      "id": "3",
+      "id": "4",
       "src": "./img/portfolioo.png",
       "title": "Porfolio (Front End Project)",
       "description": "Designed a fully responsive personal portfolio website using front-end JavaScript library ReactJS and CSS",

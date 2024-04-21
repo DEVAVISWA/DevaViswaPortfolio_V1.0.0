@@ -30,7 +30,7 @@ function Testimonials() {
           </div>
         ))}
       </div>
-      <h2 className="sections--heading">Education</h2>
+      <h2 className="sections--heading">Certification and Education</h2>
       <div className="portfolio--section--container">
         {data?.education?.map((item, index) => (
           <div key={index} className="testimonial--section--card">
