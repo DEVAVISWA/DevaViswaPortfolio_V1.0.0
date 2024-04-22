@@ -102,7 +102,7 @@
       "description": "Created a realtime chat app with react, node.js and socket.io with mongodb and express.The chat app is also responsive and it is styled with the styled components.",
       "client": "https://github.com/DEVAVISWA/ChatApp_Client",
       "server": "https://github.com/DEVAVISWA/ChatApp_Server",
-      "site": ""
+      "site": "https://chat-app-client-rho-lovat.vercel.app/"
     },
     {
       "id": "3",
