@@ -113,9 +113,17 @@
       "server": "https://github.com/DEVAVISWA/fixHealth_serverRework",
       "site": "https://celadon-mochi-7358ee.netlify.app/"
     },
-
     {
       "id": "4",
+      "src": "./img/crm.png",
+      "title": "Admin Control Pannel CRUD (Full Stack Project)",
+      "description": "Created a website which allows admin to Create, Read, Update, Delete client details like name,address,email,dob,notes and set status for the client",
+      "client": "https://github.com/DEVAVISWA/admin-control-client",
+      "server": "https://github.com/DEVAVISWA/admin-control-server",
+      "site": ""
+    },
+    {
+      "id": "5",
       "src": "./img/portfolioo.png",
       "title": "Porfolio (Front End Project)",
       "description": "Designed a fully responsive personal portfolio website using front-end JavaScript library ReactJS and CSS",
