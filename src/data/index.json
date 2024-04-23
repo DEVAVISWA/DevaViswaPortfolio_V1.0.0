@@ -120,7 +120,7 @@
       "description": "Created a website which allows admin to Create, Read, Update, Delete client details like name,address,email,dob,notes and set status for the client",
       "client": "https://github.com/DEVAVISWA/admin-control-client",
       "server": "https://github.com/DEVAVISWA/admin-control-server",
-      "site": ""
+      "site": "https://admin-control-client.vercel.app/"
     },
     {
       "id": "5",
