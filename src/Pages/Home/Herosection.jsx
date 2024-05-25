@@ -40,7 +40,7 @@ function Herosection() {
             className="btn btn-primary button---fitcotent"
             onClick={() =>
               window.open(
-                "https://drive.google.com/file/d/1VGk85oB5B6ISemmKWVYUdALC_-fHahuW/view?usp=drive_link"
+                "https://drive.google.com/file/d/1LdbcLUX5Hgt937FMhO3gucEzHeZ0hucC/view?usp=drive_link"
               )
             }
           >
