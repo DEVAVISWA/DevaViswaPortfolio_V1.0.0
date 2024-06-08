@@ -7,79 +7,79 @@
       "certificate": "https://drive.google.com/file/d/1_ihRROKU_9tVPQTnEmmuDx6L7wNZh8bp/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "HTML",
       "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
       "certificate": "https://drive.google.com/file/d/1rRgjPH2IM2zhZDjs9v4xDS6kbtA7nlow/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "CSS",
       "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg",
       "certificate": "https://drive.google.com/file/d/1i5z9-awRKMmI0yZMaDjMN9SZ9NWEwacF/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "Bootstrap",
       "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg",
       "certificate": "https://drive.google.com/file/d/16n2GDJjepe7IgBpUbZbxG34WR8lp5afp/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "Tailwind CSS",
       "link": "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
       "certificate": "https://tailwindcss.com/"
     },
     {
-      "id": 1,
+      "id": 6,
       "name": "React",
       "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
       "certificate": "https://drive.google.com/file/d/1UMFBTNA_1X7Z0F2sFBfSPMVW9GyaWwBC/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 7,
       "name": "Redux",
       "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg",
       "certificate": "https://drive.google.com/file/d/1UMFBTNA_1X7Z0F2sFBfSPMVW9GyaWwBC/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 8,
       "name": "MySQl",
       "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       "certificate": "https://drive.google.com/file/d/12Byh5z68Z-Z9CK1gbXbcdIjccPstE92g/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 9,
       "name": "Mongo DB",
       "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
       "certificate": "https://drive.google.com/file/d/1uLYLRI_WXDcgz_vIujYpSiHTeMCXwazt/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 10,
       "name": "NodeJS",
       "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg",
       "certificate": "https://drive.google.com/file/d/1d7Q-YCXd6X-Mdf02W9IQ97RezGfcDNyK/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 11,
       "name": "Express",
       "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg",
       "certificate": "https://drive.google.com/file/d/1d7Q-YCXd6X-Mdf02W9IQ97RezGfcDNyK/view?usp=drive_link"
     },
     {
-      "id": 1,
+      "id": 12,
       "name": "Postman",
       "link": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
       "certificate": "https://www.postman.com/postman/workspace/postman-public-workspace/request/create?requestId=4afa196e-41b2-461b-ac7a-dc20b17784d1"
     },
     {
-      "id": 1,
+      "id": 13,
       "name": "Git",
       "link": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
       "certificate": "https://github.com/DEVAVISWA"
     },
     {
-      "id": 1,
+      "id": 14,
       "name": "GitHub",
       "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg",
       "certificate": "https://github.com/DEVAVISWA"
@@ -103,7 +103,7 @@
       "client": "https://github.com/DEVAVISWA/ChatApp_Client",
       "server": "https://github.com/DEVAVISWA/ChatApp_Server",
       "site": "https://chat-app-client-rho-lovat.vercel.app/"
-    },
+    }, 
     {
       "id": "3",
       "src": "./img/fixHealth.png",
@@ -124,12 +124,12 @@
     },
     {
       "id": "5",
-      "src": "./img/portfolioo.png",
-      "title": "Porfolio (Front End Project)",
-      "description": "Designed a fully responsive personal portfolio website using front-end JavaScript library ReactJS and CSS",
-      "client": "https://github.com/DEVAVISWA/DevaViswaPortfolio_V1.0.0",
-      "server": "https://github.com/DEVAVISWA/DevaViswaPortfolio_V1.0.0",
-      "site": ""
+      "src": "./img/pokeswipe.jpg",
+      "title": "Poke Swipe (Front End Project)",
+      "description": "Crafted a fully responsive captivating web application called PokeSwipe where users encounter Pokemon and choose their favorites. Used front-end JavaScript library ReactJS and CSS only",
+      "client": "https://github.com/DEVAVISWA/Poke-Swipe",
+      "server": "https://github.com/DEVAVISWA/Poke-Swipe",
+      "site": "https://pokemon-app-deva.netlify.app/"
     }
   ],
   "experience": [
